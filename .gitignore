@@ -1,0 +1,11 @@
+#Tower-develop/
+
+# log file
+Software/save/save_file/client_download_photo
+Software/save/save_file/client_download_video
+Software/save/save_file/save_all_video/
+Software/save/save_file/save_detect_video/
+Software/save/save_file/save_detect_photo/photo
+Software/save/save_file/save_detect_photo/obj_photo
+
+
