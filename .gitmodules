@@ -1,0 +1,3 @@
+[submodule "Room-CAMERA"]
+	path = Room-CAMERA
+	url = git@github.com:RuffaloLavoisier/Room-CAMERA.git
