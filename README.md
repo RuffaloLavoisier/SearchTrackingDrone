@@ -1,12 +1,8 @@
 # Search Tracking Drone
 
-[wiki page](https://ruffalolavoisier.github.io/SearchTrackingDrone-Wiki/)  
+Full Tech [wiki page](https://ruffalolavoisier.github.io/SearchTrackingDrone-Wiki/)  
 
 ## 저장소 구조
-### [영상처리 알고리즘](https://github.com/RuffaloLavoisier/SearchTrackingDrone/tree/Dream/OpencvPython)
-
-Long-distance 안면 인식 알고리즘을 포함하고 있습니다.
-* pyimagesearch 기반 예제 코드를 활용합니다.  
 ### [아두이노 PWM 읽기/쓰기](https://github.com/RuffaloLavoisier/SearchTrackingDrone/tree/Dream/ReadWriteArduino)
 제어장치인 Arduino를 활용하여 flight controller와 RC receiver의 신호를 자체적으로 생성할 수 있습니다.   
 ### [물리적인 객체 추적](https://github.com/RuffaloLavoisier/SearchTrackingDrone/tree/Dream/FaceTracking)
